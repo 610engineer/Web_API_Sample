@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncSample</string>
+    <string name ="tv_winfo_title">weather info</string>
+</resources>
